@@ -1,4 +1,4 @@
-![Untitled design](https://github.com/tibirabotto/next-dash/tree/main/public/next-dash.png)
+![Untitled design](https://github.com/tibirabotto/next-dash/blob/main/public/next-dash.png)
 
 # Build A NextJS Styled With Tailwind CSS
 
